@@ -1,0 +1,4 @@
+defaults:
+  - override hydra/launcher: ray # or ray_basic, or ray_aws
+
+duration: 5.0
